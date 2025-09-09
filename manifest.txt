@@ -1,0 +1,5 @@
+Main-Class: Test
+Class-Path: lib/Pokemon.jar
+
+
+

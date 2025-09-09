@@ -10,4 +10,8 @@ public class Emboar extends Pignite {
         this.setStats(110, 123, 65, 100, 65, 65);
         addMove(new AquaTail(Type.WATER, 90, 0.9));
     }
+
+
 }
+
+
